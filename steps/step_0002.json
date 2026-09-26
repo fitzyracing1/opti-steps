@@ -1,0 +1,20 @@
+{
+  "step": 2,
+  "robot_step": 2,
+  "timestamp": "2026-09-26T00:25:37.937841+00:00",
+  "pose": [
+    0.932183281042593,
+    0.022296470472884834
+  ],
+  "goal_dist": 3.456248900402073,
+  "last_d": 1.563703764559986,
+  "last_surprise": 0.012166529172871865,
+  "last_heard_range": 1.1033366646662202,
+  "reached": false,
+  "status_msg": "navigating",
+  "pushed_paths_count": 2,
+  "last_pushed_path": [
+    0.38821338229945157,
+    -0.016593126298562584
+  ]
+}
